@@ -12,5 +12,5 @@ A junior level interview can be a number of questions like algorithms, front-end
 |Algorithm | Write a Python function to find the maximum element in an array of integers. Your function should take an array of integers as input and return the maximum value found in the array. Ensure that your solution has a time complexity of O(n), where n is the size of the input array. | [Python](./Solutions/algorithm1.py) |
 |Algorithm | Write a Python function to calculate the factorial of a given positive integer using recursion. The factorial of a number is the product of all positive integers less than or equal to that number. | [Python](./Solutions/algorithm1.py) |
 |Algorithm | Write a recursive Python function called sum_digits that calculates the sum of the digits of a given positive integer. | [Python](./Solutions/algorithm1.py) |
-
+|Algorithm | Solve the following system of equations using Python:<blockquote>Equation 1: 2x + 3y = 12</blockquote><blockquote>Equation 2: 4x - y = 5</blockquote><blockquote>Provide the values of x and y as the answer.<blockquote>| [Python](./Solutions/algorithm1.py) |
 | |  |  |
