@@ -6,3 +6,4 @@ A junior level interview can be a number of questions like algorithms, front-end
 | Type  | Problem | Solution |
 |--- | -------- | ---------- |
 |Algorithm | Write a function to find the sum of all even numbers in a given list of integers. The function should take a list as input and return the sum of all even numbers in the list. | [Python](./Solutions/evenSum.py) |
+| |  |  |
