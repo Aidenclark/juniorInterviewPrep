@@ -6,9 +6,9 @@ A junior level interview can be a number of questions like algorithms, front-end
 | Type  | Problem | Solution |
 |--- | -------- | ---------- |
 |Algorithm | Write a function to find the sum of all even numbers in a given list of integers. The function should take a list as input and return the sum of all even numbers in the list. | [Python](./Solutions/algorithm1.py) |
-|Algorithm | Write a Python function that takes in a list of integers and returns the count of unique numbers in the list. The function should only consider the numbers that appear for the first time in the list and ignore any duplicates that follow. <blockquote>>>> count_unique_numbers([1, 2, 3, 4, 2, 3, 4, 5])</blockquote> Output: 3 | [Python](./Solutions/algorithm2.py) |
+|Algorithm | Write a Python function that takes in a list of integers and returns the count of unique numbers in the list. The function should only consider the numbers that appear for the first time in the list and ignore any duplicates that follow. <blockquote>count_unique_numbers([1, 2, 3, 4, 2, 3, 4, 5])</blockquote> Output: 3 | [Python](./Solutions/algorithm2.py) |
 |Algorithm | Write a Python function that takes in a list of integers and returns the second smallest integer in the list. If the list does not contain at least two distinct integers, return None. | [Python](./Solutions/algorithm1.py) |
-|Algorithm |  | [Python](./Solutions/algorithm1.py) |
+|Algorithm | Write a Python function that takes in a list of integers and returns the maximum difference between any two elements in the list. If the list is empty or contains only one element, the function should return 0. <blockquote>Input: [3, 8, 2, 5, 1, 9]</blockquote> Output: 8 (since the maximum difference is between 1 and 9) | [Python](./Solutions/algorithm1.py) |
 |Algorithm |  | [Python](./Solutions/algorithm1.py) |
 |Algorithm |  | [Python](./Solutions/algorithm1.py) |
 |Algorithm |  | [Python](./Solutions/algorithm1.py) |
