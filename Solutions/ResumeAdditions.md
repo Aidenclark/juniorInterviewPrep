@@ -7,3 +7,6 @@ As an aspiring developer and engineer, my primary focus lies in honing my skills
 
 
 During my tenure at CASSIDI (Competitive Analysis and Structure Source Instrument for Depository Institutions), I played a pivotal role in the website's development, focusing on Angular work to enhance its user interface and overall functionality. Additionally, I conducted in-depth HHI (Herfindahl-Hirschman Index) analysis for banks, providing valuable insights into market concentration and competitiveness. Through my contributions, I successfully improved the platform's usability and provided critical data-driven solutions for the financial industry.
+
+
+As a skilled web developer, I took charge of the seamless migration project at the Federal Reserve Bank of St. Louis, transitioning their website analytics from Google Analytics Universal to Google Analytics 4. Leveraging my expertise in web technologies and data analysis, I ensured a smooth transition process, preserving vital historical data while implementing the latest tracking features and reporting capabilities offered by Google Analytics 4. This successful migration empowered the bank with advanced insights, enabling more informed decision-making and enhancing their online performance measurement.
