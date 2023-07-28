@@ -3,3 +3,7 @@ As an aspiring developer and engineer, my primary focus lies in honing my skills
 
 
 "The Learning Center" is a robust .NET website that serves as a comprehensive e-learning platform. Behind the scenes, the backend work is intricately crafted using C# and .NET technologies to ensure seamless data processing, user authentication, and secure information storage. Meanwhile, on the frontend, special emphasis is placed on accessibility, ensuring that all users, regardless of their abilities, can easily navigate and interact with the website. This is achieved by adhering to best practices in web accessibility, employing ARIA roles, semantic HTML, and providing keyboard navigation support. Moreover, the website's dynamic content is efficiently managed through SQL databases, enabling the storage, retrieval, and manipulation of vast amounts of educational resources while ensuring data integrity and optimal performance.
+
+
+
+During my tenure at CASSIDI (Competitive Analysis and Structure Source Instrument for Depository Institutions), I played a pivotal role in the website's development, focusing on Angular work to enhance its user interface and overall functionality. Additionally, I conducted in-depth HHI (Herfindahl-Hirschman Index) analysis for banks, providing valuable insights into market concentration and competitiveness. Through my contributions, I successfully improved the platform's usability and provided critical data-driven solutions for the financial industry.
